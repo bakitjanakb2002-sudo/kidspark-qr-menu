@@ -25,3 +25,4 @@ Frontend Supabase-тың public/publishable access-ін қолданады. Supa
 ## Қазіргі негізгі домен
 
 `kidspark-qr-menu.vercel.app`
+    Git deploy test — 2026-08-12
